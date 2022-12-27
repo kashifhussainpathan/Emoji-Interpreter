@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  height: 2rem;
+  width: 20rem;
+}
+.meaning {
+  margin-top: 1rem;
+}
